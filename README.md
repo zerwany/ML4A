@@ -1,3 +1,3 @@
 # ML4A
 
-Hi Human !!!
+Machine learning for Africa shining !!!
